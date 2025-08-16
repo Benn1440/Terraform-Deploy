@@ -23,7 +23,16 @@ You need a Netlify Personal Access Token to allow Terraform to deploy to your ac
 1.  Go to your Netlify dashboard.
 2.  Navigate to **User settings > Applications > Personal access tokens**.
 3.  Click **New access token** and give it a descriptive name.
-4.  Copy the generated token.
+
+<img width="1437" height="784" alt="Screenshot 2025-08-16 at 21 29 06" src="https://github.com/user-attachments/assets/b422d150-5206-4065-b806-a627388dd3a4" /> <br><br>
+4.  Copy the generated token.<br>
+
+5. On your HCP Terraform Account, Create a Workspace
+
+<img width="1467" height="573" alt="Screenshot 2025-08-16 at 21 28 41" src="https://github.com/user-attachments/assets/97febb2c-a4ce-4e0e-a8b7-5d4d5264d803" /> <br><br>
+6. You should get a custom provider resource block to add to your project<br><br>
+
+<img width="1470" height="740" alt="Screenshot 2025-08-16 at 21 33 53" src="https://github.com/user-attachments/assets/e4b883a0-b17e-4b23-ad71-9676aedcd477" />
 
 1. Clone this repository
 2. Set environment variables:
