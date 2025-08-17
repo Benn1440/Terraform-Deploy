@@ -58,6 +58,16 @@ After a successful Terraform plan
 Run `terraform apply` and a successful build on HCP <br><br>
 <img width="2940" height="1482" alt="image" src="https://github.com/user-attachments/assets/482e5a58-33f2-4a4b-8861-5540e10ea4bd" />
 
-<img width="2938" height="1598" alt="image" src="https://github.com/user-attachments/assets/44c59fe8-75cd-4a59-bfe9-dedc0aa22d7a" />
+<img width="2938" height="1598" alt="image" src="https://github.com/user-attachments/assets/44c59fe8-75cd-4a59-bfe9-dedc0aa22d7a" /> <br><br>
+
+## Deploy app project to Netlify
+- On Netlify profile >> Click add new project >> select a deployment method you prefer
+<img width="2644" height="1572" alt="image" src="https://github.com/user-attachments/assets/3a20886b-8a0d-4b25-8407-2efbf2cd1333" /> <br><br>
+
+## Live App URL &  app on Browser
+https://cosmic-moonbeam-87241b.netlify.app/
+
+<img width="2540" height="1716" alt="image" src="https://github.com/user-attachments/assets/e4e151d7-92b9-448a-80ba-c0fbf2e1c8ec" />
+
 
 
