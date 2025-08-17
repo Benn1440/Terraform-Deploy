@@ -50,3 +50,14 @@ On your project terminal, run `terraform login`  to authenticate HCP Cloud <br><
 
 <img width="2192" height="1288" alt="image" src="https://github.com/user-attachments/assets/7aca5fa1-b0f8-479c-b336-8db55125aaa7" />
 
+If you encounter any issues connecting, you can run the plan and apply by appending the token `terraform plan -var="NETLIFY_TOKEN=<your_token>"/` <br><br>
+
+After a successful Terraform plan
+<img width="2930" height="1546" alt="image" src="https://github.com/user-attachments/assets/f38a2cda-228c-4ba7-8ccb-ede7c3397af5" />
+
+Run `terraform apply` and a successful build on HCP <br><br>
+<img width="2940" height="1482" alt="image" src="https://github.com/user-attachments/assets/482e5a58-33f2-4a4b-8861-5540e10ea4bd" />
+
+<img width="2938" height="1598" alt="image" src="https://github.com/user-attachments/assets/44c59fe8-75cd-4a59-bfe9-dedc0aa22d7a" />
+
+
