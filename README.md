@@ -8,7 +8,7 @@ Deploys a basic website to Netlify with remote state management in HCP Terraform
 ## Prerequisites
 
 - Before you begin, ensure you have the following:
-- Terraform v1.5+
+- Terraform 
 1.  **A Netlify Account:** [Sign up for a free account](https://www.netlify.com/).
 2.  **An HCP Terraform Account:** [Sign up for a free account](https://app.terraform.io/).
 3.  **Terraform CLI:** Install [Terraform](https://developer.hashicorp.com/terraform/downloads). Version 1.0+ is recommended.
